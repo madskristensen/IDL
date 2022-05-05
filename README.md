@@ -2,9 +2,9 @@
 [vsixgallery]: http://vsixgallery.com/extension/IDL.9b84ff34-a900-4d2b-ac64-ae1d845ae122/
 [repo]:https://github.com/madskristensen/IDL
 
-# Terraform language support
+# IDL language support
 
-[![Build](https://github.com/madskristensen/Terraform/actions/workflows/build.yaml/badge.svg)](https://github.com/madskristensen/Terraform/actions/workflows/build.yaml)
+[![Build](https://github.com/madskristensen/IDL/actions/workflows/build.yaml/badge.svg)](https://github.com/madskristensen/IDL/actions/workflows/build.yaml)
 
 Download this extension from the [Visual Studio Marketplace][marketplace]
 or get the [CI build][vsixgallery].
