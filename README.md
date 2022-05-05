@@ -17,6 +17,7 @@ Basic language support for IDL, MIDL and WebIDL. Provides syntax highlighting, o
 
 Supports both .idl an .webidl files.
 
+
 ## How can I help?
 If you enjoy using the extension, please give it a ★★★★★ rating on the [Visual Studio Marketplace][marketplace].
 
