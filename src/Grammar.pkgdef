@@ -1,0 +1,10 @@
+﻿[$RootKey$\TextMate\Repositories]
+"IDL"="$PackageFolder$"
+
+[$RootKey$\ShellFileAssociations\.idl]
+"DefaultIconMoniker"="KnownMonikers.RGSRegistrationScript"
+[$RootKey$\ShellFileAssociations\.webidl]
+"DefaultIconMoniker"="KnownMonikers.RGSRegistrationScript"
+
+[$RootKey$\TextMate\LanguageConfiguration\GrammarMapping]
+"source.webidl"="$PackageFolder$\language-configuration.json"

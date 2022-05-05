@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json.schemastore.org/vsix-publish",
+  "categories": [ "coding", "programming languages" ],
+  "identity": {
+    "internalName": "IDL",
+    "tags": [ "idl", "cloud" ]
+  },
+  "assetFiles": [
+    {
+      "pathOnDisk": "art/idl-code.png",
+      "targetPath": "art/idl-code.png"
+    }
+  ],
+  "overview": "README.md",
+  "publisher": "MadsKristensen",
+  "repo": "https://github.com/MadsKristensen/IDL"
+}
