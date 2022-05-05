@@ -11,12 +11,11 @@ or get the [CI build][vsixgallery].
 
 --------------------------------------
 
-Basic language support for IDL, MIDL and WebIDL. Provides syntax highlighting, outlining, commenting and more...
+Basic language support for IDL, MIDL and WebIDL. Provides syntax highlighting, outlining, commenting and more. Supports both .idl an .webidl files.
 
 ![Idl Code](art/idl-code.png)
 
-Supports both .idl an .webidl files.
-
+Based on the [Textmate grammar by andik](https://github.com/andik/IDL-Syntax).
 
 ## How can I help?
 If you enjoy using the extension, please give it a ★★★★★ rating on the [Visual Studio Marketplace][marketplace].
